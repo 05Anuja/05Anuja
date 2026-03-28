@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @05Anuja
+- 👋 Hi, I’m Anuja
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning MERN stack development
+- 🌱 I’m a MERN stack developer
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm an avid reader
 
