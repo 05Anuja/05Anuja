@@ -1,5 +1,3 @@
-# Anuja13122004
-
 <h1 align="center">Hi 👋, I'm Anuja Pawar</h1>
 <h3 align="center">Full Stack Developer | MERN Stack Developer | Backend Enthusiast</h3>
 
@@ -12,7 +10,6 @@
   </a>
 </p>
 
----
 
 <!---
 05Anuja/05Anuja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
