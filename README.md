@@ -53,7 +53,11 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
+
 ---
+<p align="center">
+  <i>💻 Building, learning, and growing as a Full Stack Developer 🚀</i>
+</p>
 
 <!---
 05Anuja/05Anuja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
